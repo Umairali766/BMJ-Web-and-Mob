@@ -1,0 +1,111 @@
+<!DOCKTYPE HTML>
+<HTML>
+
+ <head>
+
+   <title>MCQ'S PAPER</title>
+
+ </head>
+
+<body>
+
+  <h1><acr title="Multiple Choice Questions"> MCQS </acr> </h1>
+  <h2>D.J Sindh Govt College </h2>
+  <h3>Computer Science</h3>
+  <p>Define HTML</p>
+
+     <ol>
+        <li><b><i>Hyper text markup languge</i></b></li>
+        <li>Programming language</li>
+        <li>Hardware language</li>
+        <li>All are correct</li>
+      </ol>
+
+  <p>What are tags</p>
+
+     <ol>
+        <li>Errors</li>
+        <li><b><i>Hidden Keyword</i></b></li>
+        <li>Programms</li>
+        <li>All are correct</li>
+      </ol>
+
+  <p>Do all HTML tags come in a pair?</p>
+
+      <ol>
+        <li><b><i>Sometime yes and sometime no</i></b></li>
+        <li>I dont know </li>
+        <li>out of syllabus question</li>
+        <li>All are correct</li>
+      </ol>
+
+  <p>What are some of the common lists that can be used when designing a page?</p>
+
+      <ol>
+        <li>Order List</li>
+        <li>Unorder list</li>
+        <li><b><i>1 and 2 is correct</i></b></li>
+        <li>Not know</li>
+      </ol>
+
+  <p>What is latest version of HTML</p>
+       <ol>
+        <li>HTML4</li>
+        <li>HTML 3</li>
+        <li><b><i>HTML 5</i></b></li>
+        <li>All are correct</li>
+      </ol>
+
+  <p>HTML 5 came in which year</p>
+       <ol>
+         <li>1995</li>
+         <li>1990</li>
+         <li><b><i>2000</i></b></li>
+         <li>All are correct</li>
+      </ol>
+
+  <p>HTML is used for designing</p>
+       <ol>
+         <li>Yes</li>
+         <li>Not sure</li>
+         <li><b><i>No</i></b></li>
+         <li>Not know</li>
+       </ol>
+
+  <p>Can we build website without using HTML</p>
+        <ol>
+         <li>Yes</li>
+         <li>Not sure</li>
+         <li><b><i>No</i></b></li>
+         <li>Not know</li>
+        </ol>
+
+  <p>Html is difficult</p> 
+       <ol>
+         <li><b><i>No</i></b></li>
+         <li>Not sure</li>
+         <li>Yes</li>
+         <li>Not know</li>
+       </ol>
+
+  <p>HTML is just like skelton of the body</p>
+       <ol>
+         <li><b><i>Yes</i></b></li>
+         <li>Not sure</li>
+         <li>No</li>
+         <li>Not know</li>
+       </ol>
+
+
+  <p>Is html is still using</p>
+       <ol>
+         <li><b><i>Yes</i></b></li>
+         <li>Not sure</li>
+         <li>No</li>
+         <li>Not know</li>
+       </ol>
+
+
+  </body>
+
+</HTML>
